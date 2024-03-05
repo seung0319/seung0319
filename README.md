@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm called Bmzy</h1>
 <h3 align="center">A passionate Unity developer from South Korea</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seung0319&label=Profile%20views&color=ffb955&style=flat" alt="seung0319" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=seung0319&label=Profile%20views&color=ffb955&style=flat" alt="seung0319" /> </p>
 
 - 🌱 I’m currently learning **Unity**
 
