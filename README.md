@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seung0319&show_icons=true&locale=en&layout=compact" alt="seung0319" /></p>
 
-<img src="https://github.com/깃허브ID/깃허브ID/blob/output/github-snake-dark.svg" width="100%">
+<img src="https://github.com/seung0319/seung0319/blob/output/github-snake-dark.svg" width="100%">
