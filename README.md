@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seung0319&label=Profile%20views&color=ffb955&style=flat" alt="seung0319" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seung0319" alt="seung0319" /></a> </p>
-
 - 🌱 I’m currently learning **Unity**
 
 - 👨‍💻 All of my projects are available at [https://hwan96.notion.site/2e3ab3708a344a52a2af53f521bb54d3?v=a5fc393c99f54606b36eb4db661f4360](https://hwan96.notion.site/2e3ab3708a344a52a2af53f521bb54d3?v=a5fc393c99f54606b36eb4db661f4360)
