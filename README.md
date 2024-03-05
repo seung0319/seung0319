@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm called Bmzy</h1>
 <h3 align="center">A passionate Unity developer from South Korea</h3>
+<h4 align="right">My actual name is SeungHwan Cho</h4>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=seung0319&label=Profile%20views&color=ffb955&style=flat" alt="seung0319" /> </p>
 
