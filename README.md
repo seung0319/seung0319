@@ -24,4 +24,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seung0319&show_icons=true&locale=en&layout=compact" alt="seung0319" /></p>
 
 <h3 align="left">My previous account(School account):</h3>
-[https://github.com/seunghwancho1](https://github.com/seunghwancho1)
+https://github.com/seunghwancho1
