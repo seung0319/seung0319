@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **whtmdghks96@gmail.com**
 
-- 📄 Know about my experiences at Notion [https://bit.ly/3V9rQxb](https://bit.ly/3V9rQxb)
+- 📄 Know about my experiences at Notion [https://bit.ly/3Tuo5AU](https://bit.ly/3Tuo5AU)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
